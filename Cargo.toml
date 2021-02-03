@@ -1,0 +1,9 @@
+[package]
+name = "rpa"
+version = "0.0.1"
+authors = ["xuguangyuansh <xuguangyuansh@126.com>"]
+edition = "2018"
+description = "Rust ORM Framework High Performance"
+license = "Apache-2.0"
+
+[dependencies]
